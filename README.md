@@ -8,8 +8,8 @@ But sth that can't miss: The quote of this repo (which we are trying to remember
 <p style="text-align:right"><b> "Building the plane while you fly it </b>"</p>
 
 <p align="center">
-<img src= "images/airplane-stock-700x700.jpg" alt="Euler" title="Euler" width="450px" height="450px">
-<img src= "images/plane.jpg" alt="Euler" title="Euler" width="450px" height="450px">
+<img src= "images/airplane-stock-700x700.jpg" alt="Euler" title="Euler" width="45%" height="50%">
+<img src= "images/plane.jpg" alt="Euler" title="Euler" width="45%" height="50%">
 </p>
 
 
