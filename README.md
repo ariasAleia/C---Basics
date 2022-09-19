@@ -14,7 +14,7 @@ But sth that can't miss: The quote of this repo (which we are trying to remember
 
 
 
-I mean... Just begin and let's what happens. As soon as you begin to move, the perspective will change.
+I mean... Just begin and let's see what happens. As soon as you begin to move, the perspective will change.
 
 
 
