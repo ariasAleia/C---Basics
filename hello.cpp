@@ -1,9 +1,12 @@
 // Your First C++ Program
-
 #include <iostream>
-#include <cmath>
+
+using namespace std;
+
 
 int main() {
-    std::cout << "Hello World! Here I am :)";
+    cout << "Hello World! Here I am :) yeahhhh."
+            "Let's build the plane while flying it"<< endl;
+    cout << "Aleia" << endl;
     return 0;
 }
